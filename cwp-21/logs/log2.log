@@ -1,0 +1,10 @@
+2019-02-12T22:57:37.461Z - [32minfo[39m: /api/property GET
+ body: {"offset":0,"sortOrder":"desc","sortField":"id"}
+2019-02-12T22:57:57.151Z - [32minfo[39m: /api/property GET
+ body: {"sortOrder":"desc","sortField":"id"}
+2019-02-12T23:00:48.932Z - [32minfo[39m: /api/property GET
+ body: {"sortOrder":"desc","sortField":"id"}
+2019-02-12T23:00:50.278Z - [32minfo[39m: /api/property GET
+ body: {"sortOrder":"desc","sortField":"id"}
+2019-02-12T23:00:50.279Z - [32minfo[39m: /api/property GET FROM CACHE
+

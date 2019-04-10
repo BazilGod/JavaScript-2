@@ -1,0 +1,9 @@
+2019-02-13T05:40:43.474Z - [32minfo[39m: /api/office GET FROM CACHE
+
+2019-02-13T05:41:05.617Z - [32minfo[39m: /api/office/delete POST
+2019-02-13T05:41:35.910Z - [32minfo[39m: /api/office/removeoffice POST
+2019-02-13T05:41:44.534Z - [32minfo[39m: /api/office/delete POST
+2019-02-13T05:41:48.288Z - [32minfo[39m: /api/office GET
+2019-02-13T05:47:15.816Z - [32minfo[39m: /api/office GET
+2019-02-13T05:47:54.160Z - [32minfo[39m: /api/office/update POST
+ body: {"id":5,"title":"dcszvzdv","website":"https://surveymonkey.com","address":"5262 Cascade Trail"}

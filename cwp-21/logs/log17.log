@@ -1,0 +1,7 @@
+2019-02-13T05:56:11.841Z - [32minfo[39m: /api/office GET
+2019-02-13T05:56:22.695Z - [32minfo[39m: /api/office/delete POST
+ body: {"id":7}
+2019-02-13T05:56:26.331Z - [32minfo[39m: /api/office GET
+2019-02-13T05:56:51.127Z - [32minfo[39m: /api/office/update POST
+ body: {"id":2,"title":"44444","website":"https://surveymonkey22222222222.com","address":"5262 Cascade Trail"}
+2019-02-13T05:57:02.331Z - [32minfo[39m: /api/office GET

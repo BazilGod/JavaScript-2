@@ -1,0 +1,9 @@
+2019-02-12T22:34:44.987Z - [32minfo[39m: /api/Offices GET
+2019-02-12T22:34:55.182Z - [32minfo[39m: /api/offices GET
+2019-02-12T22:35:32.090Z - [32minfo[39m: /api/ GET
+2019-02-12T22:36:27.871Z - [32minfo[39m: /api/office GET
+2019-02-12T22:41:58.686Z - [32minfo[39m: /api/agent GET
+2019-02-12T22:42:05.320Z - [32minfo[39m: /api/agent/1 GET
+2019-02-12T22:42:26.378Z - [32minfo[39m: /api/agent/ GET
+2019-02-12T22:43:02.448Z - [32minfo[39m: /api/Properties GET
+2019-02-12T22:43:10.189Z - [32minfo[39m: /api/properties GET
