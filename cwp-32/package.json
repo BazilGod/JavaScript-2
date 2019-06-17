@@ -1,0 +1,26 @@
+{
+  "name": "cwp-32",
+  "version": "1.0.0",
+  "description": "The thirtieth second laboratory work on Cross Platform Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Egwinn/cwp-32.git"
+  },
+  "author": "Egwinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Egwinn/cwp-32/issues"
+  },
+  "homepage": "https://github.com/Egwinn/cwp-32#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "casl": "^1.1.0",
+    "express": "^4.16.3",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.7"
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "db": {
-      "host": "localhost",
-      "dialect": "mysql",
-      "name": "cwp30",
-      "user": "root",
-      "password": "root"
-  }   
-}

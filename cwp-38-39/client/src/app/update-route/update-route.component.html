@@ -1,0 +1,29 @@
+<table>
+  <tr>
+    <td> Id :
+      <span style="color:red">{{id}}</span>
+    </td>
+    <td>Name:
+      <input type="text" [(ngModel)]="name" placeholder="Enter name" />
+    </td>
+    <td>From:
+      <input type="text" [(ngModel)]="from" placeholder="from place" />
+    </td>
+    <td>To:
+      <input type="text" [(ngModel)]="to" placeholder="to place" />
+    </td>
+    <td>Time:
+      <input type="number" [(ngModel)]="time" placeholder="time in road" />
+    </td>
+    <td> Transport:
+      <select size="3" name="hero" [(ngModel)]="transport">
+        <option *ngFor="let item of transportsVariants" [value]="item">
+          {{item}}
+        </option>
+      </select>
+    </td>
+    <td>
+      <button (click)="update()">Update</button>
+    </td>
+  </tr>
+</table>

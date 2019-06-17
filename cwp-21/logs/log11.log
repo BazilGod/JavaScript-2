@@ -1,8 +1,0 @@
-2019-02-12T22:43:37.885Z - [32minfo[39m: /api/properties GET
-2019-02-12T22:43:46.176Z - [32minfo[39m: /api/office GET
-2019-02-12T22:43:59.668Z - [32minfo[39m: /api/propertie GET
-2019-02-12T22:44:18.749Z - [32minfo[39m: /api/property GET
-2019-02-12T22:45:50.307Z - [32minfo[39m: /api/property POST
- body: {"id":6,"heading":"Support2","price":14829,"currency":"USDd","location":"27 Luster Road","agentId":1}
-2019-02-12T22:46:48.549Z - [32minfo[39m: /api/property/add POST
- body: {"heading":"Support2","price":14829,"currency":"USDd","location":"27 Luster Road","agentId":1}

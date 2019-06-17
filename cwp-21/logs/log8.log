@@ -1,7 +1,0 @@
-2019-02-13T05:37:32.110Z - [32minfo[39m: /api/property/create POST
- body: {"title":"BAZIL","website":"https://surveymonkey.com","address":"5262 Cascade Trail"}
-2019-02-13T05:37:57.552Z - [32minfo[39m: /api/office/reate POST
- body: {"title":"BAZIL","website":"https://surveymonkey.com","address":"5262 Cascade Trail"}
-2019-02-13T05:38:12.456Z - [32minfo[39m: /api/office/create POST
- body: {"title":"BAZIL","website":"https://surveymonkey.com","address":"5262 Cascade Trail"}
-2019-02-13T05:38:18.310Z - [32minfo[39m: /api/office GET

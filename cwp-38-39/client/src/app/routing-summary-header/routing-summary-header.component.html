@@ -1,0 +1,7 @@
+<div>Summary time : <span style="color:green">{{timeSummary}}</span></div>
+
+<div>Transports info: </div>
+
+<div *ngFor="let tr of transports">
+  <div> Name: <span style="color:red">{{tr.transport}}</span>, usages: <span style="color:blue">{{tr.usages}}</span> </div>
+</div>

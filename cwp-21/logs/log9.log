@@ -1,9 +1,0 @@
-2019-02-13T05:38:20.490Z - [32minfo[39m: /api/office GET
-2019-02-13T05:38:20.491Z - [32minfo[39m: /api/office GET FROM CACHE
-
-2019-02-13T05:39:31.500Z - [32minfo[39m: /api/office/create POST
- body: {"website":"https://surveymonkey.com","address":"5262 Cascade Trail"}
-2019-02-13T05:39:38.288Z - [32minfo[39m: /api/office GET
-2019-02-13T05:40:37.384Z - [32minfo[39m: /api/office/delete POST
-2019-02-13T05:40:41.944Z - [32minfo[39m: /api/office GET
-2019-02-13T05:40:43.473Z - [32minfo[39m: /api/office GET

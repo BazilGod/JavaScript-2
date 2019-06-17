@@ -1,0 +1,25 @@
+{
+  "name": "cwp-34",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "joi": "^13.7.0",
+    "lru-cache": "^4.1.5",
+    "sequelize": "^4.42.0",
+    "mysql2": "^1.6.5",
+    "travis": "^0.1.1",
+    "winston": "^2.4.4"
+  },
+  "devDependencies": {
+    "jest": "^23.0.1",
+    "supertest": "^3.1.0"
+  },
+  "jest": {
+    "verbose": true,
+    "testEnvironment": "node"
+  }
+}

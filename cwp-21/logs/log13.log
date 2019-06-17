@@ -1,9 +1,0 @@
-2019-02-12T22:51:04.606Z - [32minfo[39m: /api/property/ GET FROM CACHE
-
-2019-02-12T22:51:21.644Z - [32minfo[39m: /api/property/6 GET
-2019-02-12T22:51:32.186Z - [32minfo[39m: /api/property/7 GET
-2019-02-12T22:51:42.501Z - [32minfo[39m: /api/property/8 GET
-2019-02-12T22:51:47.802Z - [32minfo[39m: /api/property/12 GET
-2019-02-12T22:51:53.984Z - [32minfo[39m: /api/property/13 GET
-2019-02-13T05:48:00.915Z - [32minfo[39m: /api/office GET
-2019-02-13T05:48:11.222Z - [32minfo[39m: /api/office/dele POST

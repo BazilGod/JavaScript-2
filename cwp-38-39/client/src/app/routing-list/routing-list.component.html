@@ -1,0 +1,26 @@
+<table [ngClass]="'table table-striped'">
+  <thead>
+    <tr>
+      <td>id</td>
+      <td>name</td>
+      <td>from</td>
+      <td>to</td>
+      <td>time</td>
+      <td>transport</td>
+      <td>update</td>
+      <td>delete</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let route of routesStore.routes">
+      <td>{{route.id}}</td>
+      <td>{{route.name}}</td>
+      <td>{{route.from}}</td>
+      <td>{{route.to}}</td>
+      <td>{{route.time}}</td>
+      <td>{{route.transport}}</td>
+      <td><a [routerLink]="['/update', route.id]">Update</a></td>
+      <td><button type="button" [ngClass]="'btn btn-warning'" (click)="deleteRoute(route.id)">Delete</button></td>
+    </tr>
+  </tbody>
+</table>
