@@ -8,6 +8,6 @@
     "graphql": "^0.13.1",
     "graphql-tools": "^2.23.1",
     "mysql2": "^1.5.2",
-    "sequelize": "^4.35.1"
+    "sequelize": "^5.15.1"
   }
 }
