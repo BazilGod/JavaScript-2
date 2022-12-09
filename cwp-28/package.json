@@ -13,8 +13,8 @@
         "registry": "https://registry.npmjs.org"
     },
     "dependencies": {
-        "body-parser": "^1.15.0",
-        "express": "^4.0.0",
+        "body-parser": "^1.20.1",
+        "express": "^4.18.2",
         "sequelize": "^5.2.1",
         "sqlite3": "^4.0.6",
         "swaggerize-express": "^4.0.0",
@@ -26,7 +26,7 @@
         "is-my-json-valid": "^2.13.1",
         "istanbul": "~0.4.3",
         "js-yaml": "^3.2.6",
-        "supertest": "^1.2.0",
+        "supertest": "^6.3.3",
         "swagger-parser": "^3.4.1",
         "tape": "^4"
     },
